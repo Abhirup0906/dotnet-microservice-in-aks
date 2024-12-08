@@ -7,3 +7,7 @@
 /dotnetMSInAKS/obj
 /dotnetMSInAKS/Properties
 /dotnetMSInAKS/bin/Debug/net9.0
+/dotnetMSInAKS.EF/obj
+/dotnetMSInAKS.Model/bin/Debug/net9.0
+/dotnetMSInAKS.Model/obj
+/dotnetMSInAKS.EF/bin/Debug/net9.0
