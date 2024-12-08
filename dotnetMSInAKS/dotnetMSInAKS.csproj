@@ -11,4 +11,9 @@
     <PackageReference Include="Scalar.AspNetCore" Version="1.2.49" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\dotnetMSInAKS.EF\dotnetMSInAKS.EF.csproj" />
+    <ProjectReference Include="..\dotnetMSInAKS.Model\dotnetMSInAKS.Model.csproj" />
+  </ItemGroup>
+
 </Project>

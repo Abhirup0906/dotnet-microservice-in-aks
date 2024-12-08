@@ -1,9 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35527.113 d17.12
+VisualStudioVersion = 17.12.35527.113
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetMSInAKS", "dotnetMSInAKS\dotnetMSInAKS.csproj", "{523780DF-947B-4E6B-A0E0-C23F2855E7ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetMSInAKS.Model", "dotnetMSInAKS.Model\dotnetMSInAKS.Model.csproj", "{E3144BC9-E9A8-40F7-8B3A-2F15DA7BA853}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dotnetMSInAKS.EF", "dotnetMSInAKS.EF\dotnetMSInAKS.EF.csproj", "{DE3BF032-E37C-4479-8F6E-5B532563CB33}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +19,14 @@ Global
 		{523780DF-947B-4E6B-A0E0-C23F2855E7ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{523780DF-947B-4E6B-A0E0-C23F2855E7ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{523780DF-947B-4E6B-A0E0-C23F2855E7ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3144BC9-E9A8-40F7-8B3A-2F15DA7BA853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3144BC9-E9A8-40F7-8B3A-2F15DA7BA853}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3144BC9-E9A8-40F7-8B3A-2F15DA7BA853}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3144BC9-E9A8-40F7-8B3A-2F15DA7BA853}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE3BF032-E37C-4479-8F6E-5B532563CB33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE3BF032-E37C-4479-8F6E-5B532563CB33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE3BF032-E37C-4479-8F6E-5B532563CB33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE3BF032-E37C-4479-8F6E-5B532563CB33}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
