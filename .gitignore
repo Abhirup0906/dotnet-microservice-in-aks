@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/dotnetMSInAKS/obj/Debug/net9.0/dotnetMSInAKS.AssemblyInfoInputs.cache
+/.vs
+/dotnetMSInAKS/obj
+/dotnetMSInAKS/Properties
