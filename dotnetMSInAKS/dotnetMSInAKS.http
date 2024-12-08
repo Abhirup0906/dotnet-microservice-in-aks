@@ -1,0 +1,6 @@
+@dotnetMSInAKS_HostAddress = http://localhost:5273
+
+GET {{dotnetMSInAKS_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
